@@ -48,6 +48,15 @@ p {
   line-height: 1.7em;
 }
 
+
+
+
+
+
+
+
+
+
 /* header */
 
 .navbar-inverse {
@@ -67,6 +76,16 @@ p {
     color: #fff;
   }
 }
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
+
+
+
+
 
 
 
@@ -121,6 +140,9 @@ footer {
 
 
 
+
+
+
 /* sidebar */
 
 aside {
@@ -161,6 +183,10 @@ section.user_info {
   max-width: 50px;
   border-radius: 50%;
 }
+
+
+
+
 
 
 
